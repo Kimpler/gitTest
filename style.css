@@ -1,3 +1,26 @@
-css record 1
+/* MAKET SPECIFIC STYLES */
+.btn.focus, .btn:focus, .btn:hover {
+    color: #a3e4a5;
+    text-decoration: none;
+}
 
-css record 2
+/* BODY */
+#lay_body {padding:60px 10px 40px 0px; /*width: 800px;*/ width: 70%; display: inline-block; vertical-align: top; color: red; }
+.maintab {margin:0 auto;}
+/* END BODY */
+
+/* BLOCK 1 */
+#lay_f1 {background:url(../../_mod_files/ce_images/img/topbg.jpg) repeat-x; 
+background-position:top;}
+/* END BLOCK 1 */
+
+/* BLOCK 2 */
+#lay_f2 {/*width:270px;*/box-sizing: content-box;width: 25%; padding:4px 25px 10px 0px; display: inline-block; vertical-align: top;}
+.leftdiv {padding-right:#E7E7E7 1px solid;}
+/* END BLOCK 2 */
+
+/* BLOCK 3 */
+#lay_f3 {}
+
+/* BLOCK 5 */
+/* END BLOCK 5 */
